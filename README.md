@@ -1,1 +1,1 @@
-# Amazonclone.github.io
+# finalproject.github.io
